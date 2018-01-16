@@ -1,3 +1,5 @@
+# 16th Jan 2018 - forked from playniuniu/docker-gui-firefox to include support for FF Quantum (v57) on OSX only. 
+
 # Run GUI apps and Firefox with Docker for Mac 2017
 
 This article introduce how to run GUI apps and Firefox with Docker for Mac, the purpose is just for fun, maybe can be used for build Website test automation with docker, you can check [this](https://github.com/SeleniumHQ/docker-selenium).
